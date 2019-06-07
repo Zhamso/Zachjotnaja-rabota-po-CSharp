@@ -1,0 +1,6 @@
+C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\BookIndex\bin\Debug\BookIndex.dll
+C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\BookIndex\bin\Debug\BookIndex.pdb
+C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\BookIndex\obj\Debug\BookIndex.csprojAssemblyReference.cache
+C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\BookIndex\obj\Debug\BookIndex.csproj.CoreCompileInputs.cache
+C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\BookIndex\obj\Debug\BookIndex.dll
+C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\BookIndex\obj\Debug\BookIndex.pdb

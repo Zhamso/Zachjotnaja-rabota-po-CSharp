@@ -1,0 +1,9 @@
+C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\CSharpZachetChimitovZhamso\bin\Debug\CSharpZachetChimitovZhamso.pdb
+C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\CSharpZachetChimitovZhamso\bin\Debug\BookIndex.dll
+C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\CSharpZachetChimitovZhamso\bin\Debug\BookIndex.pdb
+C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\CSharpZachetChimitovZhamso\obj\Debug\CSharpZachetChimitovZhamso.csprojAssemblyReference.cache
+C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\CSharpZachetChimitovZhamso\obj\Debug\CSharpZachetChimitovZhamso.csproj.CoreCompileInputs.cache
+C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\CSharpZachetChimitovZhamso\obj\Debug\CSharpZachetChimitovZhamso.csproj.CopyComplete
+C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\CSharpZachetChimitovZhamso\obj\Debug\CSharpZachetChimitovZhamso.pdb
+C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\CSharpZachetChimitovZhamso\bin\Debug\CSharpZachetChimitovZhamso.exe
+C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\CSharpZachetChimitovZhamso\obj\Debug\CSharpZachetChimitovZhamso.exe
