@@ -7,3 +7,10 @@ C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\CSharpZachetChimitovZhamso\ob
 C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\CSharpZachetChimitovZhamso\obj\Debug\CSharpZachetChimitovZhamso.pdb
 C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\CSharpZachetChimitovZhamso\bin\Debug\CSharpZachetChimitovZhamso.exe
 C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\CSharpZachetChimitovZhamso\obj\Debug\CSharpZachetChimitovZhamso.exe
+C:\Users\stud.1312-08\Desktop\Zachjotnaja-rabota-po-CSharp-master\CSharpZachetChimitovZhamso\CSharpZachetChimitovZhamso\obj\Debug\CSharpZachetChimitovZhamso.exe
+C:\Users\stud.1312-08\Desktop\Zachjotnaja-rabota-po-CSharp-master\CSharpZachetChimitovZhamso\CSharpZachetChimitovZhamso\obj\Debug\CSharpZachetChimitovZhamso.pdb
+C:\Users\stud.1312-08\Desktop\Zachjotnaja-rabota-po-CSharp-master\CSharpZachetChimitovZhamso\CSharpZachetChimitovZhamso\bin\Debug\CSharpZachetChimitovZhamso.exe
+C:\Users\stud.1312-08\Desktop\Zachjotnaja-rabota-po-CSharp-master\CSharpZachetChimitovZhamso\CSharpZachetChimitovZhamso\bin\Debug\CSharpZachetChimitovZhamso.pdb
+C:\Users\stud.1312-08\Desktop\Zachjotnaja-rabota-po-CSharp-master\CSharpZachetChimitovZhamso\CSharpZachetChimitovZhamso\bin\Debug\BookIndex.dll
+C:\Users\stud.1312-08\Desktop\Zachjotnaja-rabota-po-CSharp-master\CSharpZachetChimitovZhamso\CSharpZachetChimitovZhamso\bin\Debug\BookIndex.pdb
+C:\Users\stud.1312-08\Desktop\Zachjotnaja-rabota-po-CSharp-master\CSharpZachetChimitovZhamso\CSharpZachetChimitovZhamso\obj\Debug\CSharpZachetChimitovZhamso.csprojResolveAssemblyReference.cache

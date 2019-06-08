@@ -13,7 +13,7 @@ namespace BookIndex
 
         public Index(string word, List<int> pages)
         {
-            Word = word;
+            Word = word.ToLower();
             Pages = pages;
         }
 
@@ -32,6 +32,15 @@ namespace BookIndex
                     Console.WriteLine(Pages.ElementAt(i));
                 }
             }
+        }
+        public override string ToString()
+        {
+            string outString = Word + " ";
+            foreach(int i in Pages)
+            {
+                outString += i.ToString() + " ";
+            }
+            return outString;
         }
     }
 }

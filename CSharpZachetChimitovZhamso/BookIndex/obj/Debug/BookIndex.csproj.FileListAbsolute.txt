@@ -4,3 +4,8 @@ C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\BookIndex\obj\Debug\BookIndex
 C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\BookIndex\obj\Debug\BookIndex.csproj.CoreCompileInputs.cache
 C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\BookIndex\obj\Debug\BookIndex.dll
 C:\Users\Zhamso\Desktop\CSharpZachetChimitovZhamso\BookIndex\obj\Debug\BookIndex.pdb
+C:\Users\stud.1312-08\Desktop\Zachjotnaja-rabota-po-CSharp-master\CSharpZachetChimitovZhamso\BookIndex\bin\Debug\BookIndex.dll
+C:\Users\stud.1312-08\Desktop\Zachjotnaja-rabota-po-CSharp-master\CSharpZachetChimitovZhamso\BookIndex\bin\Debug\BookIndex.pdb
+C:\Users\stud.1312-08\Desktop\Zachjotnaja-rabota-po-CSharp-master\CSharpZachetChimitovZhamso\BookIndex\obj\Debug\BookIndex.csprojResolveAssemblyReference.cache
+C:\Users\stud.1312-08\Desktop\Zachjotnaja-rabota-po-CSharp-master\CSharpZachetChimitovZhamso\BookIndex\obj\Debug\BookIndex.dll
+C:\Users\stud.1312-08\Desktop\Zachjotnaja-rabota-po-CSharp-master\CSharpZachetChimitovZhamso\BookIndex\obj\Debug\BookIndex.pdb
